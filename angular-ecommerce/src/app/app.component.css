@@ -1,0 +1,11 @@
+.logo img,
+.img-responsive {
+  max-width: 100px;      /* Increase for clarity */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 5px;          /* Add spacing */
+  background: white;     /* Optional: makes transparent logos more visible */
+  border-radius: 8px;    /* Optional: adds rounded corners */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); /* Optional: adds depth */
+}
